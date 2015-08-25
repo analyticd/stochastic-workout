@@ -1,0 +1,154 @@
+
+version: 1
+
+exercises:
+    - name: Jump Rope
+      format: 
+        - cardio
+        - warm-up
+
+    - name: Run in Place
+      format: 
+        - cardio
+        - warm-up
+
+    - name: High Knee
+      format: 
+        - cardio
+        - warm-up
+
+    - name: Tail Kicker
+      format: 
+        - cardio
+        - warm-up
+
+    - name: Jumping Jacks
+      format: 
+        - cardio
+        - warm-up
+
+    - name: Push-Ups
+      format: 
+        - shoulders
+
+    - name: Push-Ups And Pivot
+      format: 
+        - shoulders
+
+    - name: Plank
+      format: 
+        - core
+
+    - name: Side Plank
+      format: 
+        - core
+
+    - name: Shoulder Press
+      format:
+        - arms
+
+    - name: Russian Twist
+      format:
+        - core
+
+    - name: Bent Over Row
+      format:
+        - arms
+
+    - name: Dumbbell Row
+      format:
+        - arms
+
+    - name: Dumbbell Deadlift
+      format:
+        - fullbody
+
+    - name: Bicep Curls
+      format:
+        - arms
+
+    - name: Tricept Extensions
+      format:
+        - arms
+
+    - name: Burpese
+      format:
+        - fullbody
+        - cardio
+
+    - name: Side Lateral Raise
+      format: 
+        - arms
+
+    - name: Forward Dumbbell Raise
+      format: 
+        - arms
+
+
+    - name: Reverse Dumbbell Flyes
+      format: 
+        - arms
+
+    - name: Ice Skater
+      format: 
+        - cardio
+
+    - name: Mountain Climber
+      format: 
+        - cardio
+
+    - name: Bicycle kick
+      format: 
+        - core
+
+    - name: Knee to Elbow Fast Pace
+      format: 
+        - core
+
+    - name: Knee to Elbow Slow Pace
+      format: 
+        - core
+
+    - name: Leg Raise
+      format: 
+        - core
+
+    - name: Scissor Kick
+      format: 
+        - core
+
+    - name: Ball Pass
+      format: 
+        - core
+
+    - name: Hip Raise
+      format: 
+        - core
+
+    - name: Crunches
+      format: 
+        - core
+
+    - name: Frog Sit Ups
+      format: 
+        - core
+
+    - name: Jacknife Sit Ups
+      format: 
+        - core
+
+    - name: Superman
+      format: 
+        - core
+
+    - name: Side Sit Ups
+      format: 
+        - core
+
+    - name: Toe Toucher
+      format: 
+        - core
+
+    - name: Standing Row
+      format: 
+        - arms

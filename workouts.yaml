@@ -1,0 +1,177 @@
+
+version: 1
+
+exercises:
+    - name: Jump Rope
+      format: 
+        - cardio
+        - warm-up
+
+    - name: Run in Place
+      format: 
+        - warm-up
+
+    - name: High Knee
+      format: 
+        - cardio
+        - warm-up
+
+    - name: Tail Kicker
+      format: 
+        - cardio
+        - warm-up
+
+    - name: Jumping Jacks
+      format: 
+        - cardio
+        - warm-up
+
+    - name: Squats
+      format: 
+        - legs
+
+    - name: Push-Ups
+      format: 
+        - shoulders
+
+    - name: Plank
+      format: 
+        - core
+
+    - name: Side Plank
+      split: True
+      format: 
+        - core
+
+    - name: Backward Lunge
+      disabled: True
+      format: 
+        - legs
+
+    - name: Goblet Squat
+      format: 
+        - legs
+
+    - name: Shoulder Press
+      format:
+        - arms
+
+    - name: Russian Twist
+      format:
+        - core
+
+    - name: Bent Over Row
+      format:
+        - arms
+
+    - name: Forward Lunge
+      format: 
+        - legs
+
+    - name: Side Lunge
+      format: 
+        - legs
+
+    - name: Dumbbell Deadlift
+      format:
+        - fullbody
+
+    - name: Bicep Curls
+      format:
+        - arms
+
+    - name: Tricept Extensions
+      format:
+        - arms
+
+    - name: Burpese
+      format:
+        - fullbody
+        - cardio
+
+    - name: Side Lateral Raise
+      format: 
+        - arms
+
+    - name: Forward Dumbbell Raise
+      format: 
+        - arms
+
+    - name: Reverse Dumbbell Flyes
+      format: 
+        - arms
+
+    - name: Donkey Kick and Raise
+      format: 
+        - legs
+        - core
+
+    - name: Ice Skater
+      format: 
+        - cardio
+
+    - name: Mountain Climber
+      format: 
+        - cardio
+
+    - name: Bicycle kick
+      format: 
+        - core
+
+    - name: Knee to Elbow Fast Pace
+      format: 
+        - core
+
+    - name: Knee to Elbow Slow Pace
+      format: 
+        - core
+
+    - name: Calf Raise
+      format: 
+        - legs
+
+    - name: Leg Raise
+      format: 
+        - core
+
+    - name: Scissor Kick
+      format: 
+        - core
+
+    - name: Ball Pass
+      format: 
+        - core
+
+    - name: Hip Raise
+      format: 
+        - core
+        - glutes
+      notes: Pause for a few seconds. The arch in your lower back should remain the same from start to finish
+
+    - name: Crunches
+      format: 
+        - core
+
+    - name: Frog Sit Ups
+      format: 
+        - core
+
+    - name: Jacknife Sit Ups
+      format: 
+        - core
+
+    - name: Superman
+      format: 
+        - core
+
+    - name: Side Sit Ups
+      format: 
+        - core
+
+    - name: Toe Toucher
+      format: 
+        - core
+
+    - name: Standing Row
+      format: 
+        - arms

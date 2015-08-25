@@ -1,0 +1,60 @@
+
+version: 1
+
+exercises:
+    - name: Push-Ups
+      format: 
+        - shoulders
+
+    - name: Push-Ups And Pivot
+      format: 
+        - shoulders
+
+    - name: Plank
+      format: 
+        - core
+
+    - name: Side Plank
+      split: True
+      format: 
+        - core
+
+    - name: Shoulder Press
+      format:
+        - arms
+
+    - name: Bent Over Row
+      format:
+        - arms
+
+    - name: Dumbbell Row
+      format:
+        - arms
+
+    - name: Dumbbell Deadlift
+      format:
+        - fullbody
+
+    - name: Bicep Curls
+      format:
+        - arms
+
+    - name: Tricept Extensions
+      format:
+        - arms
+
+    - name: Side Lateral Raise
+      format: 
+        - arms
+
+    - name: Forward Dumbbell Raise
+      format: 
+        - arms
+
+    - name: Reverse Dumbbell Flyes
+      format: 
+        - arms
+
+    - name: Standing Row
+      format: 
+        - arms
