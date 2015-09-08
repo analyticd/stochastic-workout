@@ -71,7 +71,7 @@ exercises:
       format:
         - arms
 
-    - name: Burpese
+    - name: Burpees
       format:
         - fullbody
         - cardio

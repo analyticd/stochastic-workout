@@ -13,7 +13,7 @@ import yaml
 
 NUM_SETS = 3
 NUM_MOVES = 3
-NUM_GROUPS = 2
+NUM_GROUPS = 3
 
 DEFAULT_CONFIG = 'workouts.yaml'
 
